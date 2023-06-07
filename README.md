@@ -28,7 +28,7 @@ Currently the `Input` component only supports `type="text"`. We need to enhance 
 
 ### Button
 
-Currently there is only one "primary" style to the `Button` component. We'd like to enhance the button to include a new "secondary" variant. We'd like this variant to have a light background color (`#ffffffde`) with the text color our blue color (`#1182e5`) and a hover background of our light blue color (`#a3c6e4`).
+Currently there is only one "primary" style to the `Button` component. We'd like to enhance the button to include a new "secondary" variant for the "Sign Up" button. We'd like this variant to have a light background color (`#ffffffde`) with the text color our blue color (`#1182e5`) and a hover background of our light blue color (`#a3c6e4`).
 
 #### Acceptance Criteria (Button)
 - Button must support a new "secondary" variant for the `variant` prop.
