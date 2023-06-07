@@ -1,0 +1,18 @@
+.input-control {
+    width: 100%;
+
+    label {
+        margin: 0 0 0.25rem 0;
+        display: inline-block;
+        cursor: pointer;
+        font-size: 0.875rem;
+        font-weight: 500;
+    }
+
+    input {
+        padding: 0.5rem;
+        width: 100%;
+        display: block;
+        border: 1px solid var(--border-color);
+    }
+}
